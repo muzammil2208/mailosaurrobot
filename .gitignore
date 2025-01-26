@@ -1,0 +1,12 @@
+# robot result files
+*.robot
+*.html
+
+#egg info files
+mailosaurrobot.egg-info
+
+#cache files
+__pycache__
+
+#build files
+build
